@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> Registration screen with address search by zip code <strong>CODE</strong></h1>
+<h1 align="center"> Registration screen with address search by zip <strong>CODE</strong></h1>
 
 
 Registration page consuming CEP query API from <strong>WS</strong> <br>
