@@ -10,4 +10,4 @@ Registration page consuming CEP query API from <strong>WS</strong> <br>
 Developed with HTML5, CSS3 and pure JavaScript. <br>
 <br>
 
-PAGE LINK: https://consulta-cnpj-api-ma.netlify.app/
+PAGE LINK: https://consulta-cep-api-ws.netlify.app/
